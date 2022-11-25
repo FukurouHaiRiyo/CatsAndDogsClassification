@@ -7,7 +7,7 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 
-PATH = '/home/andrei/Desktop/CatDogClassifier/cats_and_dogs'
+PATH = 'path/to/cats_and_dogs'
 
 train_dir = os.path.join(PATH, 'train')
 validation_dir = os.path.join(PATH, 'validation')
